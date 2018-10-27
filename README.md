@@ -1,1 +1,1 @@
-# NN_image_classification
+#Digit recognizer using Deep learning with tensorflow
